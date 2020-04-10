@@ -1,0 +1,17 @@
+1. Create spring boot rest api
+2. Push to github
+3. Connect Azure devops to github
+4. Create organization in devops
+5. Set up maven pipeline
+6. Add docker build file
+7. Create docker image locally
+8. Create docker image via azure pipeline
+9. Create instance of ACR
+10. Push image to ACR repository
+11. Create AKS cluster
+12. Create K8 deployment files
+13. Submit job to K8 cluster from pipelines
+14. Create Helm Chart
+15. Deploy to AKS via Helm Chart
+16. Create AKS cluster via terraform
+17. Add creating cluster to azure pipeline
